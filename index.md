@@ -3,7 +3,7 @@ layout: default
 title: combinecss
 ---
 ＃combinecss
-
+下载[combinecss 0.1.0](https://github.com/wxnet2013/combinecss/archive/0.1.0.zip)
 ##特性
 合并@import引入的css外部文件。
 压缩合并的代码。

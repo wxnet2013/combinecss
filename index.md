@@ -4,6 +4,7 @@ title: combinecss
 ---
 #combinecss
 下载[combinecss 0.1.0](https://github.com/wxnet2013/combinecss/archive/0.1.0.zip)
+Fork［combinecss](https://github.com/wxnet2013/combinecss)
 ##特性
 + 合并@import指令引入的外部css文件。
 + 压缩合并后的代码。

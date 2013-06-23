@@ -3,13 +3,14 @@ layout: default
 title: combinecss
 ---
 #combinecss
-下载[combinecss 0.1.0](https://github.com/wxnet2013/combinecss/archive/0.1.0.zip)
-Fork［combinecss](https://github.com/wxnet2013/combinecss)
+1. 下载[combinecss 0.1.0](https://github.com/wxnet2013/combinecss/archive/0.1.0.zip)
+2. Fork [combinecss](https://github.com/wxnet2013/combinecss)
+
 ##特性
-+ 合并@import指令引入的外部css文件。
-+ 压缩合并后的代码。
-+ 指定公共文件，并排重。
-+ 将生成的代码打包成zip文件。
+1. 合并@import指令引入的外部css文件。
+2. 压缩合并后的代码。
+3. 指定公共文件，并排重。
+4. 将生成的代码打包成zip文件。
 
 ##使用
 1. 新建code目录，并将css代码checkout到此目录

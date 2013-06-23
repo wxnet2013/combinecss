@@ -10,9 +10,9 @@ jdk
 python27
 ##配置
 ##使用
-＊新建code目录，并将css代码checkout到此目录
-＊执行css.py
-＊compressed目录为生成
+＊ 新建code目录，并将css代码checkout到此目录
+＊ 执行css.py
+＊ compressed目录为生成
 ##TODO
 
 

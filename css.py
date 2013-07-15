@@ -55,7 +55,6 @@ def Compile(compiler_jar_path, source_paths):
                                          stderr = subprocess.PIPE, 
                                          shell = True)
   stdoutdata,unused_stderrdata = proc.communicate()
-  print unused_stderrdata
   jslog(source_paths[2] + "-------------------------------------------");
   jslog(unused_stderrdata)
 
